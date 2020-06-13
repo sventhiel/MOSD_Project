@@ -1,8 +1,7 @@
-# Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/PAULUAPAUL/MOSD_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Capturing and Documenting Provenance of Workflows with Kepler
+The aim of this Tutorial/Workshop is to provide an introduction to Kepler, an application for the
+analysis and modelling of scientific data with which scientists can create own scientific workflows.
+  
 
 ### Markdown
 
