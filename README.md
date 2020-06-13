@@ -1,13 +1,22 @@
-# Workshop:
-# Capturing and Documenting Provenance of
-# Workflows with Kepler
+# Workshop: Capturing and Documenting Provenance of Workflows with Kepler
 The aim of this Tutorial/Workshop is to provide an introduction to Kepler, an application for the
 analysis and modelling of scientific data with which scientists can create own scientific workflows.
 
 
-### Markdown
+## Structure
+| -------------------------------- | -------------------------------- |
+|1. Documenting Workflows          | What is a workflow?
+|                                  | Why documenting Workflows?
+|                                  | What is provenance?
+|                                  | Why documenting Workflows
+| ---------------------------------| --------------------------------- |
+|2. Basic Interaction with Kepler  | What can you document with Kepler?
+|                                  | Example-Workflows in Kepler
+| ---------------------------------| --------------------------------- |
+|3. Case Study with Kepler         | Heat-Equation in Kepler
+|                                  |
+| ---------------------------------| --------------------------------- |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
