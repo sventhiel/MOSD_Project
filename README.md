@@ -4,6 +4,7 @@ analysis and modelling of scientific data with which scientists can create own s
 
 
 ## Structure
+
 |                                  |                                    |
 | -------------------------------- | -----------------------------------|
 |1. Documenting Workflows          | What is a workflow?                |
