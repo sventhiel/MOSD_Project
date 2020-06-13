@@ -4,18 +4,18 @@ analysis and modelling of scientific data with which scientists can create own s
 
 
 ## Structure
-| -------------------------------- | -------------------------------- |
+| -------------------------------- | -----------------------------------|
 |1. Documenting Workflows          | What is a workflow?
 |                                  | Why documenting Workflows?
 |                                  | What is provenance?
 |                                  | Why documenting Workflows
-| ---------------------------------| --------------------------------- |
+|                                  |                                    |
 |2. Basic Interaction with Kepler  | What can you document with Kepler?
 |                                  | Example-Workflows in Kepler
-| ---------------------------------| --------------------------------- |
+| ---------------------------------| ---------------------------------- |
 |3. Case Study with Kepler         | Heat-Equation in Kepler
 |                                  |
-| ---------------------------------| --------------------------------- |
+| ---------------------------------| ---------------------------------- |
 
 
 ```markdown
