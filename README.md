@@ -5,6 +5,7 @@ analysis and modelling of scientific data with which scientists can create own s
 
 ## Structure
 
+|                     Overview of Workshop-Contens                          |
 | -------------------------------- | -------------------------------------- |
 |1. Documenting Workflows          | 1.1 What is a workflow?                |
 |                                  | 1.2 Why documenting Workflows?         |
