@@ -1,5 +1,3 @@
-[About](about.md)
-
 # Workshop: Capturing and Documenting Provenance of Workflows with Kepler
 The aim of this Tutorial/Workshop is to provide an introduction to Kepler, an application for the
 analysis and modelling of scientific data with which scientists can create own scientific workflows.
