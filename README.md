@@ -15,8 +15,7 @@ analysis and modelling of scientific data with which scientists can create own s
 |                                  | 2.2 Example-Workflows in Kepler        |
 |3. Case Study with Kepler         | 3.1 Heat-Equation in Kepler            |
 
-![Data Lifecycle]
-(/Pictures/DataLifecycle.png)
+![Data Lifecycle] (https://github.com/PAULUAPAUL/MOSD_Project/blob/master/Pictures/DataLifecycle.png)
 
 ```markdown
 Syntax highlighted code block
