@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+
+title: Workshop Management of Scientific Data
+
+description: Capturing and Documenting Provenance of Workflows with Kepler
+
+author: Project-Team 03_02
+
+navbar-links:
+  Home: welcome.md
+  About Me: about.md
