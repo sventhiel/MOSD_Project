@@ -7,8 +7,8 @@ description: Capturing and Documenting Provenance of Workflows with Kepler
 author: Project-Team 03_02
 
 navbar-links:
-  Home: welcome.md
-  About Me: about.md
+  Home: "welcome"
+  About Me: "about"
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
