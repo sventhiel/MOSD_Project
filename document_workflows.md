@@ -30,6 +30,6 @@ From introductory programming courses you might know **Flow Charts**.
   <img src="./Pictures/DataFlow2.png" title = "Even Number Algorithm Flowchart" width="325" height="300"/>
 </p>
 
-
+Paul
 Flow charts are nothing more than visual representations of workflows. As you can see
 in the picture above, the workflow on the lamp describes a lamp
