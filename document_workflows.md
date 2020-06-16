@@ -29,6 +29,8 @@ From introductory programming courses you might know **Flow Charts**.
   <img src="./Pictures/FlowChart1.png" width="200" />
   <img src="./Pictures/FlowChart2.png" width="200" />
 </p>
-test
+tester
+
+
 Flow charts are nothing more than visual representations of workflows. As you can see
 in the picture above, the workflow on the lamp describes a lamp
