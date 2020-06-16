@@ -27,7 +27,7 @@ Such a procedure consists of three basic components:
 From introductory programming courses you might know **Flow Charts**.
 <p float="left">
   <img src="./Pictures/DataFlow1.png" width="300" height="400" />
-  <img src="./Pictures/DataFlow2.png" width="350" height="400"/>
+  <img src="./Pictures/DataFlow2.png" width="300" height="300"/>
 </p>
 tester
 
