@@ -18,4 +18,4 @@ think of a scientific environment, a workflow can be interpreted as a precise
 description of a scientific procedure.
 Fair enough, let's look at a example:
 Hallo
-![Bildchens](https://github.com/PAULUAPAUL/MOSD_Project/blob/master/Pictures/DataLifecycle.png)
+![Bildchens](/Pictures/DataLifecycle.png)
