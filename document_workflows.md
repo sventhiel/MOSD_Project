@@ -16,6 +16,10 @@ has a starting/ending point. The second insight from the definition is, that we
 have multiple stages,steps, processes between the initiation and completion. When we
 think of a scientific environment, a workflow can be interpreted as a precise
 description of a scientific procedure.
-Fair enough, let's look at a example:
-Hallo
-![Bildchens](/Pictures/DataLifecycle.png)
+Such a procedure consists of three basic components
+
+                      **Input (information or material required)**
+                                        **↓**
+                        **Transformation (rules or algorithms)**
+                                        **↓**
+                      **Output (information or material produced)**
