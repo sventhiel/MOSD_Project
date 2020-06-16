@@ -26,8 +26,8 @@ Such a procedure consists of three basic components:
 
 From introductory programming courses you might know **Flow Charts**.
 <p float="left">
-  <img src="/Pictures/FlowChart1.png" width="50" />
-  <img src="/Pictures/FlowChart2.png" width="50" />
+  <img src="https://github.com/PAULUAPAUL/MOSD_Project/blob/master/Pictures/FlowChart1.png" width="50" />
+  <img src="https://github.com/PAULUAPAUL/MOSD_Project/blob/master/Pictures/FlowChart2.png" width="50" />
 </p>
 Flow charts are nothing more than visual representations of workflows. As you can see
 in the picture above, the workflow on the lamp describes a lamp
