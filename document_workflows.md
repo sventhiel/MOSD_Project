@@ -25,7 +25,7 @@ Such a procedure consists of three basic components:
              Output (information or material produced)
 
 From introductory programming courses you might know **Flow Charts**.
-
+tester
 ![pic](/Pictures/FlowChart1.png)![pic2](/Pictures/FlowChart2.png)
 Flow charts are nothing more than visual representations of workflows. As you can see
 in the picture above, the workflow on the lamp describes a lamp
