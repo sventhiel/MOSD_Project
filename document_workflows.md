@@ -29,9 +29,7 @@ From introductory programming courses you might know **Flow Charts**.
   <figure>
     <img src="./Pictures/DataFlow1.png" width="300" height="400" />
     <img src="./Pictures/DataFlow2.png" width="300" height="300"/>
-    <figcaption>Lamp-FlowChart</figcaption>
-    <figcaption>Even Number Algorithm Flowchart</figcaption>
-
+    <figcaption>Lamp-FlowChart      Even Number Algorithm Flowchart</figcaption>
   </figure>
 </p>
 Flow charts are nothing more than visual representations of workflows. As you can see
