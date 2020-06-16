@@ -25,11 +25,13 @@ Such a procedure consists of three basic components:
              Output (information or material produced)
 
 From introductory programming courses you might know **Flow Charts**.
-<p float="left">
-  <img src="./Pictures/DataFlow1.png" title = "Lamp-FlowChart" width="300" height="400" />
-  <img src="./Pictures/DataFlow2.png" title = "Even Number Algorithm Flowchart" width="325" height="300"/>
-</p>
+<figure float="left">
+  <img src="./Pictures/DataFlow1.png" width="300" height="400" />
+  <figcaption>"Lamp-FlowChart"</figcaption>
+  <img src="./Pictures/DataFlow2.png" width="325" height="300"/>
+  <figcaption>"Even Number Algorithm Flowchart"</figcaption>
 
-Paul
+</figure>
+
 Flow charts are nothing more than visual representations of workflows. As you can see
 in the picture above, the workflow on the lamp describes a lamp
