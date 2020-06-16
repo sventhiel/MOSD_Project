@@ -27,9 +27,8 @@ Such a procedure consists of three basic components:
 From introductory programming courses you might know **Flow Charts**.
 <p float="left">
   <img src="./Pictures/DataFlow1.png" width="300" height="400" />
-  <img src="./Pictures/DataFlow2.png" width="300" height="300"/>
+  <img src="./Pictures/DataFlow2.png" width="325" height="300"/>
 </p>
-tester
 
 
 Flow charts are nothing more than visual representations of workflows. As you can see
