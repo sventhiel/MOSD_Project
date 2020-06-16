@@ -25,7 +25,7 @@ Such a procedure consists of three basic components:
              Output (information or material produced)
 
 From introductory programming courses you might know **Flow Charts**.
--- <p float="left">
+<p float="left">
   <img src="/Pictures/FlowChart1.png" width="200" />
   <img src="/Pictures/FlowChart2.png" width="200" />
 </p>
