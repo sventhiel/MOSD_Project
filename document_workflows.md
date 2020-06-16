@@ -30,4 +30,4 @@ From introductory programming courses you might know **Flow Charts**.
   <img src="/Pictures/FlowChart2.png" width="100" />
 </p>
 Flow charts are nothing more than visual representations of workflows. As you can see
-in the picture above, the
+in the picture above, the 
