@@ -18,8 +18,11 @@ think of a scientific environment, a workflow can be interpreted as a precise
 description of a scientific procedure.
 Such a procedure consists of three basic components:
 
-            __Input (information or material required)__
+            Input (information or material required)
                                 ↓
               Transformation (rules or algorithms)
                                 ↓
              Output (information or material produced)
+
+From introductory programming courses you might know **Flow Charts**.
+![Simple Flow Chart](\Pictures\FlowChart1.png)
