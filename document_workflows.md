@@ -26,3 +26,5 @@ Such a procedure consists of three basic components:
 
 From introductory programming courses you might know **Flow Charts**.
 ![Simple Flow Chart](\Pictures\FlowChart1.png)
+Flow charts are nothing more than visual representations of workflows. As you can see
+in the picture above, the 
