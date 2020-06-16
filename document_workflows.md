@@ -27,9 +27,9 @@ Such a procedure consists of three basic components:
 From introductory programming courses you might know **Flow Charts**.
 <p float="left">
   <figure>
-    <img src="./Pictures/DataFlow1.png" width="300" height="400" />
+    <img src="./Pictures/DataFlow1.png" width="200" height="400" />
     <figcaption>Lamp-FlowChart</figcaption>
-    <img src="./Pictures/DataFlow2.png" width="300" height="300"/>
+    <img src="./Pictures/DataFlow2.png" width="200" height="300"/>
     <figcaption>Even Number Algorithm Flowchart</figcaption>
 
   </figure>
