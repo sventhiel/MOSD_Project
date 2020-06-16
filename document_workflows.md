@@ -16,9 +16,9 @@ has a starting/ending point. The second insight from the definition is, that we
 have multiple stages,steps, processes between the initiation and completion. When we
 think of a scientific environment, a workflow can be interpreted as a precise
 description of a scientific procedure.
-Such a procedure consists of three basic components
+Such a procedure consists of three basic components:
 
-            **Input (information or material required)**
+            __Input (information or material required)__
                                 ↓
               Transformation (rules or algorithms)
                                 ↓
