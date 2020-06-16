@@ -18,8 +18,8 @@ think of a scientific environment, a workflow can be interpreted as a precise
 description of a scientific procedure.
 Such a procedure consists of three basic components
 
-**Input** (information or material required)
-                  **↓**
-  **Transformation (rules or algorithms)**
-                  **↓**
+**Input (information or material required)**
+**↓**
+**Transformation (rules or algorithms)**
+**↓**
 **Output (information or material produced)**
