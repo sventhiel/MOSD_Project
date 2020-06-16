@@ -26,8 +26,8 @@ Such a procedure consists of three basic components:
 
 From introductory programming courses you might know **Flow Charts**.
 <p float="left">
-  <img src="./Pictures/FlowChart1.png" width="250" height="500" />
-  <img src="./Pictures/FlowChart2.png" width="250" height="500"/>
+  <img src="./Pictures/FlowChart1.png" width="300" height="400" />
+  <img src="./Pictures/FlowChart2.png" width="300" height="400"/>
 </p>
 tester
 
