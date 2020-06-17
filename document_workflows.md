@@ -24,13 +24,27 @@ Such a procedure consists of three basic components:
                                 ↓
              Output (information or material produced)
 
-From introductory programming courses you might know **Flow Charts**.
+When talking about workflows, we have to distinguish between two different kinds of
+workflows.
+
+            1. Informal Workflows (Flow charts, Commented Scripts, ...)
+            2. Formal Workflows (Kepler Software, VisTrails, ...)
+
+From introductory programming courses you might know **Flow charts**.
+
 <p float="left">
   <figure>
     <img src="./Pictures/DataFlow1.png" width="300" height="400" />
     <img src="./Pictures/DataFlow2.png" width="300" height="300"/>
-    <figcaption>Lamp-FlowChart      Even Number Algorithm Flowchart</figcaption>
+    <figcaption>Lamp-Flow chart (left) and Even Number Algorithm Flow chart (right)</figcaption>
   </figure>
 </p>
-Flow charts are nothing more than visual representations of workflows. As you can see
-in the picture above, the workflow on the lamp describes a lamp
+
+Flow Charts are nothing more than simple visualizations of workflows. As you can see
+in both pictures, there is a beginning ("Lamp doesn't work", "Start") followed by
+some transformations ("Lamp plugged in?", "If number % 2 == 0") and the end
+("Repair lamp", "End").
+**Commented Scripts** only means well documented code. That means by adding global
+information at the top of a script (author, date, functionality), followed by a
+description of the most important code sections. To make Code more readable you could
+and should use some programming guidelines. Uner this link you can find [Google's Style Guides](https://google.github.io/styleguide/) for a variety o programming languages.
