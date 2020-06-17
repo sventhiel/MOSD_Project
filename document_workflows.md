@@ -43,7 +43,8 @@ From introductory programming courses you might know **Flow charts**.
 Flow Charts are nothing more than simple visualizations of workflows. As you can see
 in both pictures, there is a beginning ("Lamp doesn't work", "Start") followed by
 some transformations ("Lamp plugged in?", "If number % 2 == 0") and the end
-("Repair lamp", "End"). \
+("Repair lamp", "End").
+
 **Commented Scripts** only means well documented code. That means by adding global
 information at the top of a script (author, date, functionality), followed by a
 description of the most important code sections. To make Code more readable you could
