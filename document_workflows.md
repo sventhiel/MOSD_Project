@@ -48,4 +48,8 @@ some transformations ("Lamp plugged in?", "If number % 2 == 0") and the end
 **Commented Scripts** only means well documented code. That means by adding global
 information at the top of a script (author, date, functionality), followed by a
 description of the most important code sections. To make Code more readable you could
-and should use some programming guidelines. Uner this link you can find [Google's Style Guides](https://google.github.io/styleguide/) for a variety o programming languages.
+and should use some programming guidelines. Uner this link you can find [Google's Style Guide](https://google.github.io/styleguide/) for a variety o programming languages. To use such style guides makes it much more easier to work in a collaborative environment, when developing software. But why are commented scripts workflows, you may ask? Okay, just think about the three components of a workflow and then you get it.
+
+Why do we distinguish between **informal(IW)** and **formal(FW)** workflows? Both workflow types can be seen as analytical pipelines (three basic components of workflows).
+But the difference between those two is that FW's can be implemented in and across different software systems. Each step and the according parameters are formally
+recorded. This allows reuse of individual steps and the overall workflow. That is why formal workflows are often also called **executable workflows**.
