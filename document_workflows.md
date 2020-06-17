@@ -3,8 +3,8 @@
 This chapter will give you a intuitive introduction to workflows and why
 they are so important for scientific work. We need a basic knowledge about what
 a workflow itself is. Then we will discuss what provenence in terms of workflows mean.
-We will conclude this chapter by answering and motivatong the question about
-why we should document workflows
+We will conclude this chapter by answering and motivating the question about
+why we should document workflows.
 
 # 1.1 Workflow
 According to the [Oxford Dictionary](https://www.lexico.com/definition/workflow), a
@@ -50,6 +50,6 @@ information at the top of a script (author, date, functionality), followed by a
 description of the most important code sections. To make Code more readable you could
 and should use some programming guidelines. Uner this link you can find [Google's Style Guide](https://google.github.io/styleguide/) for a variety o programming languages. To use such style guides makes it much more easier to work in a collaborative environment, when developing software. But why are commented scripts workflows, you may ask? Okay, just think about the three components of a workflow and then you get it.
 
-Why do we distinguish between **informal(IW)** and **formal(FW)** workflows? Both workflow types can be seen as analytical pipelines (three basic components of workflows).
+Why do we distinguish between **informal (IW)** and **formal (FW)** workflows? Both workflow types can be seen as analytical pipelines (three basic components of workflows).
 But the difference between those two is that FW's can be implemented in and across different software systems. Each step and the according parameters are formally
 recorded. This allows reuse of individual steps and the overall workflow. That is why formal workflows are often also called **executable workflows**.
