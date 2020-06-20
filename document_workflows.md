@@ -52,4 +52,8 @@ and should use some programming guidelines. Uner this link you can find [Google'
 
 Why do we distinguish between **informal (IW)** and **formal (FW)** workflows? Both workflow types can be seen as analytical pipelines (three basic components of workflows).
 But the difference between those two is that FW's can be implemented in and across different software systems. Each step and the according parameters are formally
-recorded. This allows reuse of individual steps and the overall workflow. That is why formal workflows are often also called **executable workflows**.
+recorded. This allows reuse of individual steps and the overall workflow. That is why formal workflows are often also called **executable workflows**. We will focus deeply on formal workflows in chapter 2 and 3 of this workshop.
+
+In the next part we will discuss what provenance of workflows is and how we can achieve this.
+
+[>>](./provenance.md) 
