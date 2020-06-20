@@ -56,4 +56,4 @@ recorded. This allows reuse of individual steps and the overall workflow. That i
 
 In the next part we will discuss what provenance of workflows is and how we can achieve this.
 
-[>>](./provenance.md) 
+[>> 1.2 Provenance](./provenance.md) 
