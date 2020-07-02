@@ -38,7 +38,7 @@ From introductory programming courses you might know **Flow charts**.
     <img src="./Pictures/DataFlow2.png" width="300" height="300"/>
     <figcaption>Lamp-Flow chart (left) and Even Number Algorithm Flow chart (right)</figcaption>
       <figcaption>
-  https://1.bp.blogspot.com/--suY-YduOYc/WEgOZTsdO9I/AAAAAAAAANY/iprzGjZ85QAQeN5QVDcTzIBb3XGR5ad4ACLcB/s1600/Odd-even.png; https://miro.medium.com/max/5000/1*gfS7FlD-0i-liI44hDROEg.png
+  (https://1.bp.blogspot.com/--suY-YduOYc/WEgOZTsdO9I/AAAAAAAAANY/iprzGjZ85QAQeN5QVDcTzIBb3XGR5ad4ACLcB/s1600/Odd-even.png; https://miro.medium.com/max/5000/1*gfS7FlD-0i-liI44hDROEg.png)
   </figcaption>
 </figure>
 </p>
