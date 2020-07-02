@@ -1,4 +1,4 @@
-# 1.3 Provenance
+# 1.3 What is Provenance?
 Data provenance is a description of the origin of the data, so provenance means "origin".
 Another definition comes from Herschel et al. [2017] Provenance is the description of the process or a sequence of steps that together with the data and the parameters led to the creation of a data product.
 Provenance helps in achieving reproducibility, verification and analysis of results.
