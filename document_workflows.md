@@ -61,4 +61,4 @@ recorded. This allows reuse of individual steps and the overall workflow. That i
 
 In the next part we will discuss why we should document workflows.
 
-[>> 1.2 Why documenting workflows](./doc_workflows.md)
+[>> 1.2 Why documenting workflows?](./doc_workflows.md)
