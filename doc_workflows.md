@@ -1,4 +1,4 @@
-# 1.2 Why documenting workflows?
+### 1.2 Why documenting workflows?
 In the previous chapter we learned what a workflow is and saw how it helps us to document a process. But at this point we can also ask ourselves, why we should document workflows in general.
 Well, the answer is pretty simple **reproducibility**.
 Reproducibility is at the core of scientific method and a study would lose its credibility if results were not reproducible.

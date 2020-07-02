@@ -1,4 +1,4 @@
-# 1.3 What is Provenance?
+### 1.3 What is Provenance?
 Data provenance is a description of the origin of the data, so provenance means "origin".
 Another definition comes from Herschel et al. [2017] Provenance is the description of the process or a sequence of steps that together with the data and the parameters led to the creation of a data product.
 Provenance helps in achieving reproducibility, verification and analysis of results.
@@ -12,4 +12,8 @@ If a person who is not directly involved in the project is able to follow all th
   </figure>
 </p>
 
-Provenance means a greater accountability and implies a more trustworthy science.
+**Provenance means a greater accountability and implies a more trustworthy science.**
+
+In the next chapter we will focus on a scientific workflow software program called **Kepler**. We will discuss what we actually can document with Kepler and how to use this tool for some example applications.
+
+[>> 2. Basic Interaction with Kepler](./kepler_intro.md)
