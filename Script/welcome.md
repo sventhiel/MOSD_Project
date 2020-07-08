@@ -13,4 +13,4 @@ analysis and modelling of scientific data with which scientists can create own s
 |[2. Basic Interaction with Kepler](./Script/2_kepler_intro.md)
 |[3. Case Study with Kepler](./Script/3_kepler_case_study)
 
-[1. Documenting Workflows](./Script/1_document_workflows.md)
+[>> 1. Documenting Workflows](./Script/1_document_workflows.md)
