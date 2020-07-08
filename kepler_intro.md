@@ -9,9 +9,9 @@ An actor has at least one **port**. A port can be either a input, output or inpu
 
 ![Kepler Basic Components](./Pictures/KeplerComponents.png)
 
-To select or connect different components Kepler provides a simple drag and drop interface. For further information see Getting Started Guide [Kepler Getting Started](https://code.kepler-project.org/code/kepler-docs/trunk/outreach/documentation/shipping/2.5/getting-started-guide.pdf) and Kepler User Manual [Kepler User Manual](https://code.kepler-project.org/code/kepler-docs/trunk/outreach/documentation/shipping/2.1/UserManual.pdf).
+To select or connect different components Kepler provides a simple drag and drop interface. For further information see [Kepler Getting Started](https://code.kepler-project.org/code/kepler-docs/trunk/outreach/documentation/shipping/2.5/getting-started-guide.pdf) and [Kepler User Manual](https://code.kepler-project.org/code/kepler-docs/trunk/outreach/documentation/shipping/2.1/UserManual.pdf).
 
-You can download the latest version for you operating system of choice under [Download](https://kepler-project.org/users/downloads.html)
+You can download the latest version for you operating system of choice under [: ](https://kepler-project.org/users/downloads.html)
 <!--
 <p float="middle">
   <video width="600" height="400" controls>
