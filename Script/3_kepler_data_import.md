@@ -1,7 +1,7 @@
 # Import Data to Kepler
 
-Input: Path to remote file  [https://raw.githubusercontent.com/PAULUAPAUL/MOSD_Project/master/umsatz.txt](https://raw.githubusercontent.com/PAULUAPAUL/MOSD_Project/master/umsatz.txt)
-Output: locally saved file, display file
+**Input:** Path to remote file  [https://raw.githubusercontent.com/PAULUAPAUL/MOSD_Project/master/umsatz.txt](https://raw.githubusercontent.com/PAULUAPAUL/MOSD_Project/master/umsatz.txt)
+**Output:** locally saved file, display file
 
 **ToDo:** Import the remote file locally to Kepler and display the file.
 

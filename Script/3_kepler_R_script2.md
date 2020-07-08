@@ -1,7 +1,7 @@
 # Create R-Script II
 
-Input: Path to file/ filename
-Output: display average, standard deviation, variance, minimum, maximum
+**Input:** Path to file/ filename
+**Output:** display average, standard deviation, variance, minimum, maximum
 
 **ToDo:** Create a R-Script inside Kepler to calculate statistics of the sales-data and execute the workflow.
 

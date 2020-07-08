@@ -1,7 +1,7 @@
 # Create R-Script I
 
-Input: Path to file/ filename
-Output: display data as R-Plot
+**Input:** Path to file/ filename
+**Output:** display data as R-Plot
 
 **ToDo:** Create a R-Script inside Kepler to plot the sales-data.
 
