@@ -6,6 +6,6 @@
                                     ↓
                   Downloaded file as Input for R-Script
                                     ↓
-                  R-Script for calculating statistics
+                      R-Script for plotting data
                                     ↓
-                  Plot and Display data and statistics
+              R-Script for calculating/displaying statistics
