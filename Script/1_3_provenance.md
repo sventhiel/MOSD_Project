@@ -7,7 +7,7 @@ If a person who is not directly involved in the project is able to follow all th
 
 <p float="middle">
   <figure>
-    <img src="./Pictures/provenance.jpg"/>
+    <img src="./../Pictures/provenance.jpg"/>
     <figcaption>(https://static.projects.iq.harvard.edu/files/styles/os_files_xxlarge/public/provenance-at-harvard/files/provenance_infographic_2_final_juang.jpg?m=1515724688&itok=IBv2BIPE)</figcaption>
   </figure>
 </p>

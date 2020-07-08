@@ -8,7 +8,7 @@ Output: display data as R-Plot
 **Create R-Script inside Kepler**
 <p float="middle">
   <video width="600" height="350" controls>
-  <source src="Video/2_DockingR.mp4" type="video/mp4">
+  <source src="./../Video/2_DockingR.mp4" type="video/mp4">
   </video>
 </p>
 

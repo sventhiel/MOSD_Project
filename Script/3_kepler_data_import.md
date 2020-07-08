@@ -8,7 +8,7 @@ Output: locally saved file, display file
 **Import remote data to Kepler**
 <p float="middle">
   <video width="600" height="350" controls>
-  <source src="Video/1_ImportData.mp4" type="video/mp4">
+  <source src="./../Video/1_ImportData.mp4" type="video/mp4">
   </video>
 </p>
 

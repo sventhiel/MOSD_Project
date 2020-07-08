@@ -7,7 +7,7 @@ The documentation comprises metadata and process metadata. Metadata is data abou
 
 <p float="middle">
   <figure>
-    <img src="./Pictures/doc_workflow.png"/>
+    <img src="./../Pictures/doc_workflow.png"/>
     <figcaption>(https://datamelt.weebly.com/uploads/2/7/9/2/27921471/bildschirmfoto-vom-2019-02-14-15-31-06_1_orig.png)</figcaption>
   </figure>
 </p>
