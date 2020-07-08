@@ -8,4 +8,4 @@ How can such a workflow look like? Scratch a workflow and compare it afterwards 
 
 Now let's build our workflow with Kepler and see how the data flows.
 
-[>> Start Kepler](./Script/3_kepler_start.md)
+[>> Start Kepler](./3_kepler_start.md)

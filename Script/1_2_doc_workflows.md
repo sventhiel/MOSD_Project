@@ -14,4 +14,4 @@ The documentation comprises metadata and process metadata. Metadata is data abou
 
 The main idea is to ensure reproducibility you have to document the process and gather information about analysis, data organization, graphing, etc. which were used to produce outputs. A related concept is **data provenance**. What this term means and how to achieve good provenance can you study in the next chapter.
 
-[>> 1.3 What is Provenance?](./Script/1_3_provenance.md)
+[>> 1.3 What is Provenance?](./1_3_provenance.md)

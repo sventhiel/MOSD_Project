@@ -16,4 +16,4 @@ If a person who is not directly involved in the project is able to follow all th
 
 In the next chapter we will focus on a scientific workflow software program called **Kepler**. We will discuss what we actually can document with Kepler and how to use this tool for some example applications.
 
-[>> 2. Basic Interaction with Kepler](./Script/2_kepler_intro.md)
+[>> 2. Basic Interaction with Kepler](./2_kepler_intro.md)

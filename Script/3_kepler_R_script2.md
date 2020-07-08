@@ -12,4 +12,4 @@ Output: display average, standard deviation, variance, minimum, maximum
   </video>
 </p>
 
-[End](./Script/End.md)
+[End](./End.md)
