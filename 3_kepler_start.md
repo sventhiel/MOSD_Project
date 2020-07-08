@@ -4,7 +4,7 @@ If you are using R the first time inside Kepler, make sure you have added the pa
 
 **Setting R-path system variable**
 <p float="middle">
-  <video width="600" height="400" controls>
+  <video width="600" height="350" controls>
   <source src="Video/0_SettingRPath.mp4" type="video/mp4">
   </video>
 </p>
